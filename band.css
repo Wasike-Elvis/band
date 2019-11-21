@@ -1,0 +1,17 @@
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color:greenyellow;
+  }
+  .about{
+      float: left;
+      width: 500px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 17px;
+      text-align: justify;
+  }
+.img{
+    float: left;
+    height: 50px;
+    padding: 50px;
+}
